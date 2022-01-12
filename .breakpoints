@@ -1,0 +1,20 @@
+{
+  "files": {
+    "part1.py": [
+      {
+        "id": "2adcbd78-9af4-46d1-b06f-4e730f0342a1",
+        "line": 12,
+        "version": 81,
+        "index": 452
+      }
+    ],
+    "poetry.lock": [
+      {
+        "id": "053f3ea0-52fe-4a4f-9a03-7f1172655f26",
+        "line": 16,
+        "version": 1,
+        "index": 390
+      }
+    ]
+  }
+}
